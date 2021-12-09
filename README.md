@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 
 
-<br/><br/>
+<br/>
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
