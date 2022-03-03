@@ -68,15 +68,15 @@ Here are some ideas to get you started:
 
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{sai-shankar08}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{galisaishankar08}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sai-shankar08&langs_count=10&theme=tokyonight&layout=compact" alt="sai-shankar08 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galisaishankar08&langs_count=10&theme=tokyonight&layout=compact" alt="galisaishankar08 :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=sai-shankar08&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=galisaishankar08&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
@@ -91,4 +91,4 @@ Here are some ideas to get you started:
 
 ---
 
-⭐️ From [@SAI_SHANKAR](https://github.com/sai-shankar08)
+⭐️ From [@SAI_SHANKAR](https://github.com/galisaishankar08)
